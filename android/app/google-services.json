@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635467368566",
+    "project_id": "yo-me-animo",
+    "storage_bucket": "yo-me-animo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635467368566:android:ea3a07fce28d0f2e58b757",
+        "android_client_info": {
+          "package_name": "com.yma.movies.movies_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcZ9hW1s5yIpjzu_ehbMWtv2ej7dFooY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
